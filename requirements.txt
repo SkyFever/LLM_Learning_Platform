@@ -1,0 +1,31 @@
+# Backend
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch
+pydantic
+moviepy
+openai-whisper
+transformers[torch]
+BitsAndBytes
+fastapi
+python-multipart
+uvicorn
+asyncio
+aiofiles
+
+# Frontend
+altair
+asyncio
+docx
+langchain
+langchain-community
+numpy
+olefile
+pandas
+pdfplumber
+pybase64
+pymysql
+requests
+st-clickable-images
+streamlit
+streamlit-browser-engine
+streamlit-cookies-manager
