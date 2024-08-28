@@ -1,0 +1,60 @@
+AI Learning Platform
+Copyright [2024] [대박징조]
+
+This product includes software developed by:
+
+Streamlit (https://streamlit.io/)
+Copyright 2018-2023 Streamlit Inc.
+Licensed under the Apache License, Version 2.0
+
+FastAPI (https://fastapi.tiangolo.com/)
+Copyright 2018 Sebastián Ramírez
+Licensed under the MIT License
+
+LangChain (https://github.com/hwchase17/langchain)
+Copyright (c) 2022 Harrison Chase
+Licensed under the MIT License
+
+Transformers (https://github.com/huggingface/transformers)
+Copyright 2018- The Hugging Face team. All rights reserved.
+Licensed under the Apache License, Version 2.0
+
+MoviePy (https://zulko.github.io/moviepy/)
+Copyright (c) 2015 Zulko
+Licensed under the MIT License
+
+Whisper (https://github.com/openai/whisper)
+Copyright (c) 2022 OpenAI
+Licensed under the MIT License
+
+PyMySQL (https://github.com/PyMySQL/PyMySQL)
+Copyright (c) 2010, 2013 PyMySQL contributors
+Licensed under the MIT License
+
+Altair (https://altair-viz.github.io/)
+Copyright (c) 2016-2020, Altair Developers
+Licensed under the BSD 3-Clause License
+
+st_clickable_images
+[Copyright information not available]
+Licensed under the MIT License
+
+PyBase64 (https://github.com/mayeut/pybase64)
+Copyright (c) 2016-present Matthieu Darbois
+Licensed under the BSD 2-Clause License
+
+Pydantic (https://github.com/samuelcolvin/pydantic)
+Copyright (c) 2017-present Samuel Colvin and other contributors
+Licensed under the MIT License
+
+python-docx (https://github.com/python-openxml/python-docx)
+Copyright (c) 2013 Steve Canny, https://github.com/scanny
+Licensed under the MIT License
+
+Olefile (https://www.decalage.info/python/olefileio)
+Copyright (c) 2005-2020 Philippe Lagadec
+Licensed under the BSD 2-Clause License
+
+Qwen (https://github.com/QwenLM/Qwen)
+Copyright (c) 2023 Qwen team
+Licensed under the Apache License, Version 2.0
