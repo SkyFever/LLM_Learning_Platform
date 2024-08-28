@@ -74,5 +74,3 @@
 ## 연락처
 
 프로젝트 관리자 - [ktp4401@gmail.com](mailto:ktp4401@gmail.com)
-
-프로젝트 링크: [https://github.com/SkyFever/LLM_Learning_Platform](https://github.com/SkyFever/LLM_Learning_Platform)
