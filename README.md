@@ -52,10 +52,9 @@
    ```
 
 2. 프론트엔드 애플리케이션을 실행합니다:
-   - 애플리케이션 실행:
-     ```
-     streamlit run ui.py
-     ```
+   ```
+   streamlit run ui.py
+   ```
 
 3. 웹 브라우저에서 `http://localhost:8501`로 접속하여 앱을 사용합니다.
 
