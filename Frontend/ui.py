@@ -153,7 +153,7 @@ def mode_select():
                 )
                 adm_btn = st.button("🎓 시험 출제 및 관리", help="새로운 시험을 출제하고 관리합니다", use_container_width=True)
                 if clicked_adm != -1 or adm_btn:
-                    cl.get_session_state('mode') == "admin"
+                    cl.set_session_state('mode', "admin")
                     st.rerun()
             else:
                 st.warning("시험 출제 모드는 관리자만 접근 가능합니다.")
